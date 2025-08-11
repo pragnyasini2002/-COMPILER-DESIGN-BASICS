@@ -43,4 +43,8 @@ Compiler: GCC
 
 IDE: Code:: VS Code
 
+# Output
+
+<img width="1841" height="342" alt="Image" src="https://github.com/user-attachments/assets/d5331e6f-8620-4bbb-889d-422358750308" />
+
 
